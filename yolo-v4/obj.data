@@ -1,5 +1,0 @@
-classes = 2
-train = Sdata_Model/train.txt
-valid = Sdata_Model/test.txt
-names = Sdata_Model/obj.names
-backup =Sdata_Model/backup
